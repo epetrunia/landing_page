@@ -111,3 +111,24 @@ h2 {
 .sectionFour p {
     padding: 1em 0;
 }
+
+.sectionFive {
+    display: flex;
+    background: black;
+    color: white;
+    padding: 2em;
+
+}
+
+.acme {
+    width: 50%;
+}
+
+.author {
+    width: 50%;
+}
+
+.author a {
+    text-decoration: none;
+    color: #2690d4;
+}

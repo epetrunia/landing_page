@@ -92,3 +92,22 @@ h2 {
     color: black;
     padding: 2em;
 }
+
+.sectionFour {
+    display: flex;
+}
+
+.contacts {
+    width: 50%;
+    background: #2690d4;
+    padding: 1.5em;
+}
+
+.about {
+    width: 50%;
+    padding: 2em;
+}
+
+.sectionFour p {
+    padding: 1em 0;
+}

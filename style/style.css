@@ -37,3 +37,28 @@ header a {
     background: #333;
     padding: 1em 2em;
 }
+
+.WhiteSection {
+    background: #eaeaea;
+    color: black;
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.WhiteSection h2 {
+    padding: 1em 0;
+    font-weight: bold;
+    font-size: 1.5em;
+
+}
+
+.Columns {
+    columns: 2;
+    column-gap: 2em;
+
+}
+
+.Container {
+    margin-left: 25%;
+    margin-right: 25%;
+}

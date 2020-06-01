@@ -40,12 +40,11 @@ header a {
 
 .WhiteSection {
     color: black;
-    text-align: center;
     padding-bottom: 30px;
     background: #eaeaea;
 }
 
-.WhiteSection h2 {
+h2 {
     padding: 1em 0;
     font-weight: bold;
     font-size: 1.5em;
@@ -86,4 +85,10 @@ header a {
     font-size: 1.17em;
     font-weight: bold;
     padding: 1em 0;
+}
+
+.digitalSection {
+    background: white;
+    color: black;
+    padding: 2em;
 }
